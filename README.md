@@ -7,9 +7,7 @@ Hey everyone! Welcome to my GitHub profile. I'm passionate about building cool t
 * **Email:** sathwik.sns@gmail.com
 * **Location:** Sangareddy, Telangana, India
 * **Phone:** +91-7396088027
-* **LinkedIn:** [Your LinkedIn Profile URL Here](YOUR_LINKEDIN_URL)
-* **GitHub:** [Your GitHub Profile URL Here](YOUR_GITHUB_URL)
-
+  
 **What I'm Up To:**
 
 I'm currently focused on expanding my skills in web development, particularly with Angular and Django. I'm always looking for opportunities to contribute to open-source projects or collaborate on interesting ideas.
