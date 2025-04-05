@@ -4,4 +4,4 @@ Hey everyone! Welcome to my GitHub profile. I'm passionate about building cool t
 
 Email: sathwik.sns@gmail.com | LinkedIn: [Sathwik-iiit](https://www.linkedin.com/in/sathwik-vadla-s311/))
 
-Deployed Links: [ToolBunch.apk](https://github.com/sathwikiiit/ToolBunch/releases/download/22112024/ToolBunch.apk) | [Legalbot](https://legalbot-9mno.onrender.com/login)
+Deployed Links: [Shop](https://sansei.onrender.com) | [ToolBunch.apk](https://github.com/sathwikiiit/ToolBunch/releases/download/22112024/ToolBunch.apk) | [Legalbot](https://legalbot-9mno.onrender.com/login)
