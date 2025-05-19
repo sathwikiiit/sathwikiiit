@@ -11,7 +11,7 @@ Hello there! I'm a passionate developer dedicated to building innovative solutio
 
 * **ToolBunch (Android App):** A versatile mobile toolkit. [Download APK](https://github.com/sathwikiiit/ToolBunch/releases/download/22112024/ToolBunch.apk)
     * *Brief Description: (Tool Bunch is a versatile Android application designed to provide efficient calculation tools for land and legal-related computations. Simplify complex calculations with user-friendly interfaces)*
-* **Sansei E-commerce Platform:** A fully functional online shop. [Live Demo](https://sansei.onrender.com)
+* **Sansei E-commerce Platform:** A fully functional online shop. [Live Demo](http://34.209.250.176:8080/login)
     * **Credentials:**
         * Username: `admin`
         * Password: `admin123`
