@@ -16,7 +16,7 @@ Hello there! I'm a passionate developer dedicated to building innovative solutio
         * Username: `admin`
         * Password: `admin123`
     * *Brief Description: (Sansei: Full-stack e-commerce starter with Angular (frontend) and Spring Boot (backend serving SPA). Includes product browsing, cart, and basic checkout. A foundational app for your custom online store.)*
-* **LegalBot:** An AI-powered legal assistant. [Access LegalBot](https://legalbot-9mno.onrender.com/login)
+* **LegalBot:** An AI-powered legal assistant. [Access LegalBot](http://34.209.250.176:8080/login)
     * **Credentials:**
         * Username: `sathwik`
         * Password: `[space]`
