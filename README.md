@@ -22,4 +22,4 @@ Hello there! I'm a passionate developer dedicated to building innovative solutio
         * Username: `sathwik`
         * Password: `[space]`
     * *Brief Description: (Legalbot_v2 is a web application designed to streamline legal workflows for lawyers and other legal professionals. It features document generation based on pre-defined templates for various suits and a user-friendly interface for managing legal cases efficiently.)*
-Note: Only works from 9:00 am to 6:00 pm
+* Note: Only works from 9:00 am to 6:00 pm
