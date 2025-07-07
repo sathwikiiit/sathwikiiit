@@ -12,12 +12,12 @@ Hello there! I'm a passionate developer dedicated to building innovative solutio
 
 * **ToolBunch (Android App):** A versatile mobile toolkit. [Download APK](https://github.com/sathwikiiit/ToolBunch/releases/download/22112024/ToolBunch.apk)
     * *Brief Description: (Tool Bunch is a versatile Android application designed to provide efficient calculation tools for land and legal-related computations. Simplify complex calculations with user-friendly interfaces)*
-* **Sansei E-commerce Platform:** A fully functional online shop. [Live Demo](http://54.218.45.47:8080/)
+* **Sansei E-commerce Platform:** A fully functional online shop. [Live Demo](http://44.233.206.27:8080/)
     * **Credentials:**
         * Username: `admin`
         * Password: `admin123`
     * *Brief Description: (Sansei: Full-stack e-commerce starter with Angular (frontend) and Spring Boot (backend serving SPA). Includes product browsing, cart, and basic checkout. A foundational app for your custom online store.)*
-* **LegalBot:** An AI-powered legal assistant. [Access LegalBot](http://54.218.45.47:9090/login)
+* **LegalBot:** An AI-powered legal assistant. [Access LegalBot](http://44.233.206.27:9090/login)
     * **Credentials:**
         * Username: `sathwik`
         * Password: `[space]`
